@@ -57,4 +57,7 @@ Ashiss-MBP:getting-started Ashis$ npm install -g composer-playground
 
 Ashiss-MBP:getting-started Ashis$ docker-composer playground
 
+http://localhost:8080
+
+
 
