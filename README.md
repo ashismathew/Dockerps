@@ -33,3 +33,16 @@ $ ./network_setup.sh up
 
 
 
+Hyperledger Composer
+=====================
+
+git clone https://github.com/hyperledger/composer-sample-applications-hlfv1.git
+
+shiss-MBP:getting-started Ashis$ pwd
+/Users/Ashis/hyperledger/composer-sample-applications-hlfv1/packages/getting-started
+
+Ashiss-MBP:getting-started Ashis$ npm install
+
+
+Ashiss-MBP:getting-started Ashis$ npm test
+
