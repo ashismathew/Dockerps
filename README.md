@@ -31,6 +31,8 @@ $ ./network_setup.sh up
 ===================== All GOOD, End-2-End execution completed ===================== 
 
 
+Install Node.js and NPM
+http://blog.teamtreehouse.com/install-node-js-npm-mac
 
 
 Hyperledger Composer
@@ -45,4 +47,14 @@ Ashiss-MBP:getting-started Ashis$ npm install
 
 
 Ashiss-MBP:getting-started Ashis$ npm test
+
+Hyperledger Composer Playground
+================================
+Ashiss-MBP:getting-started Ashis$ pwd
+/Users/Ashis/hyperledger/composer-sample-applications-hlfv1/packages/getting-started
+
+Ashiss-MBP:getting-started Ashis$ npm install -g composer-playground
+
+Ashiss-MBP:getting-started Ashis$ docker-composer playground
+
 
