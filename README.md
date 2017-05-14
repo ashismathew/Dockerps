@@ -123,4 +123,9 @@ Web server listening at: http://localhost:3000
 Browse your REST API at http://localhost:3000/explorer
 
 
+composer-rest-server -p hlfv1 -n digitalproperty-network -i admin -s adminpw -N always
+
+
+
+
 
