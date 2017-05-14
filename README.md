@@ -125,6 +125,27 @@ Browse your REST API at http://localhost:3000/explorer
 
 composer-rest-server -p hlfv1 -n digitalproperty-network -i admin -s adminpw -N always
 
+composer archive create --sourceName digitalproperty-network --sourceType module --archiveFile digitalPropertyNetwork.bna
+
+Ashiss-MBP:getting-started Ashis$ composer archive create --sourceName digitalproperty-network --sourceType module --archiveFile digitalPropertyNetwork.bna
+
+Creating Business Network Archive
+
+Node module search path : 
+undefined 
+
+Not found in main node_module search path, trying current directory :/Users/Ashis/hyperledger/composer-sample-applications-hlfv1/packages/getting-started/node_modules/digitalproperty-network
+Looking for package.json of Business Network Definition in /Users/Ashis/hyperledger/composer-sample-applications-hlfv1/packages/getting-started/node_modules/digitalproperty-network
+
+Found:
+Description:Digital Property Network
+Name:digitalproperty-network
+Identifier:digitalproperty-network@0.0.7
+
+Written Business Network Definition Archive file to digitalPropertyNetwork.bna
+Command completed successfully.
+
+Command succeeded
 
 
 
