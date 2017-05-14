@@ -77,7 +77,11 @@ Ashiss-MBP:getting-started Ashis$ pwd
 
 Ashiss-MBP:getting-started Ashis$ npm install -g composer-playground
 
-Ashiss-MBP:getting-started Ashis$ docker-composer playground
+You can then start Hyperledger Composer Playground by running the following command in your terminal or command prompt:
+
+
+
+Ashiss-MBP:getting-started Ashis$ composer playground
 
 http://localhost:8080
 
