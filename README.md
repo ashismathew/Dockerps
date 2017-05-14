@@ -74,3 +74,53 @@ Ashiss-MBP:hlfv1 Ashis$ pwd
 /Users/Ashis/.composer-connection-profiles/hlfv1
 
 
+| | | |  _   _   _ __     ___   _ __  | |   ___    __| |   __ _    ___   _ __           / ___|   ___    _ __ ___    _ __     ___    ___    ___   _ __ 
+ | |_| | | | | | | '_ \   / _ \ | '__| | |  / _ \  / _` |  / _` |  / _ \ | '__|  _____  | |      / _ \  | '_ ` _ \  | '_ \   / _ \  / __|  / _ \ | '__|
+ |  _  | | |_| | | |_) | |  __/ | |    | | |  __/ | (_| | | (_| | |  __/ | |    |_____| | |___  | (_) | | | | | | | | |_) | | (_) | \__ \ |  __/ | |   
+ |_| |_|  \__, | | .__/   \___| |_|    |_|  \___|  \__,_|  \__, |  \___| |_|             \____|  \___/  |_| |_| |_| | .__/   \___/  |___/  \___| |_|   
+          |___/  |_|                                       |___/                                                    |_|                                
+? Enter your Fabric Connection Profile Name: hlfv1
+? Enter your Business Network Identifier : digitalproperty-network
+? Enter your Fabric username : admin
+? Enter your secret: adminpw
+? Specify if you want namespaces in the generated REST API: always use namespaces
+? Specify if you want the generated REST API to be secured: No
+
+To restart the REST server using the same options, issue the following command:
+   composer-rest-server -p hlfv1 -n digitalproperty-network -i admin -s adminpw -N always
+
+Discovering types from business network definition ...
+Discovered types from business network definition
+Generating schemas for all types in business network definition ...
+Generated schemas for all types in business network definition
+Adding schemas for all types to Loopback ...
+{ name: 'net_biz_digitalPropertyNetwork_LandTitle',
+  description: 'An asset named LandTitle',
+  plural: 'net.biz.digitalPropertyNetwork.LandTitle',
+  base: 'PersistedModel',
+  idInjection: false,
+  options: 
+   { validateUpsert: true,
+     composer: 
+      { type: 'asset',
+        namespace: 'net.biz.digitalPropertyNetwork',
+        name: 'LandTitle',
+
+relations: {},
+  acls: 
+   [ { accessType: '*',
+       permission: 'ALLOW',
+       principalId: '$authenticated',
+       principalType: 'ROLE' },
+     { accessType: '*',
+       permission: 'DENY',
+       principalId: '$unauthenticated',
+       principalType: 'ROLE' } ],
+  methods: [],
+  forceId: true }
+Added schemas for all types to Loopback
+Web server listening at: http://localhost:3000
+Browse your REST API at http://localhost:3000/explorer
+
+
+
