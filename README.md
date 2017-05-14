@@ -69,6 +69,6 @@ Install the general purpose Composer REST Server
 ===========
 npm install -g composer-rest-server
 
-
+composer-rest-server -p h1fv1 -n digital-property-network -i admin -s adminpw -N always
 
 
