@@ -192,5 +192,9 @@ Command completed successfully.
 Command succeeded
 
 
+====
+
+KS shortcut to navigate between terminal tabs in mac
+key combination is: Shift-Cmd-Left or Right
 
 
