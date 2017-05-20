@@ -4,6 +4,7 @@
  #When you're sure you want to delete them, you can add the -q flag to supply the IDs to the docker stop and docker rm commands:
  
 #How to open docker in Mac
+
 open -a Docker
 
 docker rm $(docker ps -a -q)
