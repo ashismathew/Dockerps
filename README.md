@@ -3,6 +3,13 @@
  #Adding the -a flag will show all containers. 
  #When you're sure you want to delete them, you can add the -q flag to supply the IDs to the docker stop and docker rm commands:
  
+ https://nexus.hyperledger.org/content/repositories/releases/org/hyperledger/fabric/fabric-binary/darwin-amd64-1.0.0-alpha2-testing/fabric-binary-darwin-amd64-1.0.0-alpha2-testing.tar.gz/
+ 
+PATH of Script - Users/Ashis/fabric-sample/release/darwin-amd64
+
+
+ 
+ 
 #How to open docker in Mac
 
 open -a Docker
@@ -14,6 +21,13 @@ docker ps -a |  grep "pattern"
 
 #Remove all images with force option
 docker rmi -f $(docker images -a -q)
+
+new alpha2 images available in
+
+https://nexus.hyperledger.org/content/repositories/releases/org/hyperledger/fabric/fabric-binary/darwin-amd64-1.0.0-alpha2-testing/fabric-binary-darwin-amd64-1.0.0-alpha2-testing.tar.gz
+
+PATH of scripts in
+
 
 Ashiss-MBP:e2e Ashis$ CHANNEL_NAME=channel_kutts docker-compose -f docker-compose-no-tls.yaml up -d
 Creating network "e2e_default" with the default driver
