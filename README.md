@@ -197,4 +197,13 @@ Command succeeded
 KS shortcut to navigate between terminal tabs in mac
 key combination is: Shift-Cmd-Left or Right
 
+#How do i find a network port in open in Mac?
+netstat -anp |grep port_#
+
+#close open port in mac
+Find out the process ID (PID) which is occupying the port number (e.g., 5955) you would like to free
+sudo lsof -i :5955
+Kill the process which is currently using the port using its PID
+sudo kill -9 PID
+
 
