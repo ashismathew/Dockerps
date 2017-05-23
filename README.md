@@ -5,7 +5,8 @@
  
  https://nexus.hyperledger.org/content/repositories/releases/org/hyperledger/fabric/fabric-binary/darwin-amd64-1.0.0-alpha2-testing/fabric-binary-darwin-amd64-1.0.0-alpha2-testing.tar.gz/
  
-PATH of Script - Users/Ashis/fabric-sample/release/darwin-amd64
+PATH of v1.0 alpha2 Script - Users/Ashis/fabric-sample/release/darwin-amd64
+
 
 
  
