@@ -43,6 +43,8 @@ Ashiss-MBP:e2e Ashis$ pwd
 
 
 $ ./network_setup.sh up
+#alpha2 images
+$./network_setup.sh up ash 10000 couchdb
 
 017-05-13 21:38:13.412 UTC [main] main -> INFO 006 Exiting.....
 ===================== Query on PEER3 on channel 'mychannel' is successful ===================== 
