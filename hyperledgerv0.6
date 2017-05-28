@@ -1,0 +1,87 @@
+Setting up HL -0.6
+Execute ./setenv.sh
+
+PATH -/Users/Ashis/Desktop/Docs/Blockchain/fabric-images/docker-compose
+
+Ashiss-MBP:docker-compose Ashis$ export ARCH_TAG=x86_64-0.6.1-preview
+Ashiss-MBP:docker-compose Ashis$ echo $ARCH_TAG
+x86_64-0.6.1-preview
+
+Ashiss-MBP:docker-compose Ashis$ pwd
+/Users/Ashis/Desktop/Docs/Blockchain/fabric-images/docker-compose
+Ashiss-MBP:docker-compose Ashis$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+Ashiss-MBP:docker-compose Ashis$ docker-compose -f single-peer-ca.yaml up
+
+$ docker-compose -f four-peer-ca.yaml up
+
+Starting dockercompose_membersrvc_1
+Starting dockercompose_baseimage_1
+Creating dockercompose_vp0_1
+Creating dockercompose_vp1_1
+Creating dockercompose_vp2_1
+Creating dockercompose_vp3_1
+
+Setting up HYPERLEDGER EXPLORER
+==============================
+Ashiss-MBP:blockchain-explorer Ashis$ git clone https://github.com/hyperledger/blockchain-explorer
+Cloning into 'blockchain-explorer'...
+remote: Counting objects: 76, done.
+remote: Total 76 (delta 0), reused 0 (delta 0), pack-reused 76
+Unpacking objects: 100% (76/76), done.
+Checking connectivity... done.
+Ashiss-MBP:blockchain-explorer Ashis$ ls -al
+total 0
+drwxr-xr-x  3 Ashis  staff  102 May 28 01:26 .
+drwxr-xr-x  9 Ashis  staff  306 May 28 01:26 ..
+drwxr-xr-x  6 Ashis  staff  204 May 28 01:26 blockchain-explorer
+Ashiss-MBP:blockchain-explorer Ashis$ cd b
+-bash: cd: b: No such file or directory
+Ashiss-MBP:blockchain-explorer Ashis$ cd blockchain-explorer/explorer_1/
+Ashiss-MBP:explorer_1 Ashis$ ls -al
+total 64
+drwxr-xr-x  12 Ashis  staff   408 May 28 01:26 .
+drwxr-xr-x   6 Ashis  staff   204 May 28 01:26 ..
+-rw-r--r--   1 Ashis  staff   196 May 28 01:26 .gitignore
+-rw-r--r--   1 Ashis  staff   801 May 28 01:26 Dockerfile
+-rw-r--r--   1 Ashis  staff  2933 May 28 01:26 Gruntfile.js
+-rw-r--r--   1 Ashis  staff  1993 May 28 01:26 README.md
+-rw-r--r--   1 Ashis  staff  8659 May 28 01:26 exp-server.js
+drwxr-xr-x   4 Ashis  staff   136 May 28 01:26 hyperledgerpeerintf
+-rw-r--r--   1 Ashis  staff  1130 May 28 01:26 package.json
+drwxr-xr-x   4 Ashis  staff   136 May 28 01:26 resources
+drwxr-xr-x   3 Ashis  staff   102 May 28 01:26 templates
+drwxr-xr-x   4 Ashis  staff   136 May 28 01:26 webcontent
+Ashiss-MBP:explorer_1 Ashis$ npm install grunt grunt-auto-install grunt-contrib-uglify grunt-contrib-copy
+$grunt
+
+Prerequisiste - npm install -g grunt-cli
+npm install -g bower
+
+Ashiss-MBP:explorer_1 Ashis$ node exp-server.js
+Compiling all doT templates...
+Compiling HyperlegerExplorer.jst to file
+ statsData  { checkTime: '',
+  avgTxnLatency: '',
+  txnRate: '',
+  mineRate: '',
+  txRateGraph: { time: [], txRate: [] },
+  blkRateGraph: { time: [], blkRate: [] },
+  blkTxGraph: { block: [], txs: [] },
+  chTx: 
+   { chainCodes: [ 'ch01', 'ch02', 'ch03' ],
+     counts: [ 143, 100, 43 ] },
+  apprTx: 
+   { stats: [ 'Approved', 'Pending', 'Rejected' ],
+     counts: [ 832, 253, 39 ] } }
+     
+     Reference - https://hub.docker.com/r/yeasy/blockchain-explorer/
+     
+     From the chrome to access Hyperleger Exploreer- http://localhost:9090/
+     
+     REST API call - http://localhost:7050/chain
+     
+     
+     
+     
+
