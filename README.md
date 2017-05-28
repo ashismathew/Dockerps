@@ -210,3 +210,11 @@ Kill the process which is currently using the port using its PID
 sudo kill -9 PID
 
 
+Handy Commands
+To stop all Docker containers:
+docker stop $(docker ps -a -q)
+To remove all Docker instances:
+docker rm -f $(docker ps -a -q)
+To remove all Docker images:
+docker rmi -f $(docker images -q)
+
