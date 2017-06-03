@@ -1,1 +1,5 @@
 
+http://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf
+
+Do not backup to mounted network (NFS,
+etc.) shares.
