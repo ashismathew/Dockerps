@@ -11,3 +11,7 @@ NFS and other remote file systems are not recommended for use by POSTGRESQL. NFS
 https://www.slideshare.net/JonathanBattiato/postgresql-on-nfs-jbattiato-pgday2016?qid=5f509856-e519-4866-9e3f-7a49f543b7aa&v=&b=&from_search=1
 
 https://www.slideshare.net/GiuseppeBroccolo/gbroccolo-pgconfeu2016-pgnfs?qid=f5b46507-62c6-40b6-a9fc-2adadfbc34cc&v=&b=&from_search=2
+
+Running Docker-
+
+$docker run --name pg-9.6 -e POSTGRES_PASSWORD=test123 -d postgres
