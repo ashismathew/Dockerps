@@ -73,7 +73,8 @@ export USER='postgres'
 export _='pwd'
 export no_proxy='*.local, 169.254/16'
 
-To start the existing docker containers
+step 4- if container is stopped and To start the existing docker containers
+=========
 $docker start pg-9.6
 
 pg_ctl in 
