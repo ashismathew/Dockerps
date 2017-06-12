@@ -12,7 +12,18 @@ https://www.slideshare.net/JonathanBattiato/postgresql-on-nfs-jbattiato-pgday201
 
 https://www.slideshare.net/GiuseppeBroccolo/gbroccolo-pgconfeu2016-pgnfs?qid=f5b46507-62c6-40b6-a9fc-2adadfbc34cc&v=&b=&from_search=2
 
-Running Docker-
+Running PostgresDocker
+====================
+
+Ashiss-MBP:blockmonitoring Ashis$ docker search "postgres"
+NAME                      DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+postgres                  The PostgreSQL object-relational database ...   3649      [OK]       
+kiasaki/alpine-postgres   PostgreSQL docker image based on Alpine Linux   31                   [OK]
+abevoelker/postgres       Postgres 9.3 + WAL-E + PL/V8 and PL/Python...   10                   [OK]
+macadmins/postgres        Postgres that accepts remote connections b...   8                    [OK]
+jamesbrink/postgres       Highly configurable PostgreSQL container.       5                    [OK]
+eeacms/postgres           Docker image for PostgreSQL (RelStorage re...   4                    [OK]
+
 
 step 1- start postgres as an instance
 =====
@@ -33,3 +44,36 @@ Ashiss-MBP:blockmonitoring Ashis$ docker run -it --rm --link pg-9.6:postgres pos
 Password for user postgres: 
 psql (9.6.3)
 Type "help" for help.
+
+Alternate option - docker exec -it pg-9.6 psql -U postgres 
+
+Step 3 - entering into bash 
+==========
+docker exec -it pg-9.6 /bin/bash
+root@2a94df2c0160:/var/lib/postgresql/data# su postgres
+#login as postgres
+$ export
+export GOSU_VERSION='1.7'
+export HOME='/home/postgres'
+export HOSTNAME='2a94df2c0160'
+export LANG='en_US.utf8'
+export LOGNAME='postgres'
+export MAIL='/var/mail/postgres'
+export OLDPWD='/var/lib/postgresql/data/pg_xlog'
+export PATH='/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games'
+export PGDATA='/var/lib/postgresql/data'
+export PG_MAJOR='9.6'
+export PG_VERSION='9.6.3-1.pgdg80+1'
+export POSTGRES_PASSWORD='test123'
+export PWD='/var/lib/postgresql/data'
+export SHELL='/bin/sh'
+export SHLVL='1'
+export TERM='xterm'
+export USER='postgres'
+export _='pwd'
+export no_proxy='*.local, 169.254/16'
+
+
+
+
+ 
