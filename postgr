@@ -14,4 +14,22 @@ https://www.slideshare.net/GiuseppeBroccolo/gbroccolo-pgconfeu2016-pgnfs?qid=f5b
 
 Running Docker-
 
+step 1- start postgres as an instance
+=====
 $docker run --name pg-9.6 -e POSTGRES_PASSWORD=test123 -d postgres
+
+Ashiss-MBP:blockmonitoring Ashis$ docker run --name pg-9.6 -e POSTGRES_PASSWORD=test123 -d postgres
+2a94df2c0160d962405196cc878ea70b099941437f9d2236bc121e0ba752d23c
+Ashiss-MBP:blockmonitoring Ashis$ docker ps -a
+CONTAINER ID        IMAGE                                               COMMAND                  CREATED             STATUS                   PORTS               NAMES
+2a94df2c0160        postgres                                            "docker-entrypoint..."   10 seconds ago      Up 6 seconds             5432/tcp            pg-9.6
+
+step 2- Run Postgres as as server
+=========
+
+$docker run -it --rm --link pg-9.6:postgres postgres psql -h postgres -U postgres
+
+Ashiss-MBP:blockmonitoring Ashis$ docker run -it --rm --link pg-9.6:postgres postgres psql -h postgres -U postgres
+Password for user postgres: 
+psql (9.6.3)
+Type "help" for help.
