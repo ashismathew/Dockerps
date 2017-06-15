@@ -85,10 +85,15 @@ root@2a94df2c0160:/var/lib/postgresql/data# which pg_ctl
  ==========
  
  Backup and Restore-
+ ==================
  
  https://www.mkyong.com/database/postgresql-point-in-time-recovery-incremental-backup/
  
  https://github.com/PacktPublishing/PostgreSQL-9.6-High-Performance
  
  https://github.com/2ndQuadrant/ext4-data-loss
+ 
+ 
+ http://www.cybertec.at/postgresql-tablespaces-its-not-so-scary/
+ 
  
