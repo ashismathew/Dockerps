@@ -107,3 +107,12 @@ root@2a94df2c0160:/var/lib/postgresql/data# which pg_ctl
  Role
  ====
 https://tech.instacart.com/bootstrapping-postgres-users-cd594e5f28e9
+
+pgPool
+======
+
+https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-with-pgpool-1-basic-setup-and-watchdog-configuration/
+
+https://www.slideshare.net/AshnikBiz/architecture-for-building-scalable-and-highly-available-postgres-cluster
+https://www.enterprisedb.com/postgres-plus-edb-blog/jason-davis/pgpool-ii-enables-horizontal-scalability-postgres
+https://www.enterprisedb.com/blog/little-respect-pgpool-ii
