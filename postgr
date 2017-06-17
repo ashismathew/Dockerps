@@ -116,3 +116,8 @@ https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-wi
 https://www.slideshare.net/AshnikBiz/architecture-for-building-scalable-and-highly-available-postgres-cluster
 https://www.enterprisedb.com/postgres-plus-edb-blog/jason-davis/pgpool-ii-enables-horizontal-scalability-postgres
 https://www.enterprisedb.com/blog/little-respect-pgpool-ii
+
+pgbech test--
+https://www.slideshare.net/EnterpriseDB/pgpool-load-testing
+
+https://sonnguyen.ws/replication-load-balance-in-posgresql-replication-with-pgpool2/
