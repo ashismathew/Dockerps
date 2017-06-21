@@ -41,7 +41,8 @@ step 2- Run Postgres as as server
 $docker run -it --rm --link pg-9.6:postgres postgres psql -h postgres -U postgres
 
 Ashiss-MBP:blockmonitoring Ashis$ docker run -it --rm --link pg-9.6:postgres postgres psql -h postgres -U postgres
-Password for user postgres: 
+Password for user postgres: ]
+
 psql (9.6.3)
 Type "help" for help.
 
