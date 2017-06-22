@@ -132,3 +132,10 @@ https://sonnguyen.ws/replication-load-balance-in-posgresql-replication-with-pgpo
 
 https://hackernoon.com/postgresql-cluster-into-kubernetes-cluster-f353cde212de
 http://www.edbguides.com/pgpool/pgpool-quickstart
+
+pgPool-watchdog
+=================
+
+http://www.pgpool.net/pgpool-web/contrib_docs/watchdog/en.html
+https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-with-pgpool-1-basic-setup-and-watchdog-configuration/
+
