@@ -139,3 +139,6 @@ pgPool-watchdog
 http://www.pgpool.net/pgpool-web/contrib_docs/watchdog/en.html
 https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-with-pgpool-1-basic-setup-and-watchdog-configuration/
 
+Connection pool
+https://dzone.com/articles/scaling-connections-in-postgres
+
