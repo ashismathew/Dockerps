@@ -143,16 +143,7 @@ Connection pool
 https://dzone.com/articles/scaling-connections-in-postgres
 http://lets.postgresql.jp/documents/technical/pgpool-II-3.3-watchdog/1
 
-\set nbranches :scale
-\set ntellers 10 * :scale
-\set naccounts 100000 * :scale
-\setrandom aid 1 :naccounts
-\setrandom bid 1 :nbranches
-\setrandom tid 1 :ntellers
-\setrandom delta -5000 5000
-BEGIN;
-INSERT INTO pgbench_accounts (aid, abalance, created_on) SELECT :aid, abalance + :delta, now() FROM pgbench_accounts WHERE aid = :aid ORDER BY created_on DESC LIMIT 1;
-SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
---INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
-END;
+Postgres Internals
+========
 
+https://fritshoogland.wordpress.com/2017/07/01/postgresql-block-internals/
