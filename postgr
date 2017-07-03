@@ -141,4 +141,5 @@ https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-wi
 
 Connection pool
 https://dzone.com/articles/scaling-connections-in-postgres
+http://lets.postgresql.jp/documents/technical/pgpool-II-3.3-watchdog/1
 
