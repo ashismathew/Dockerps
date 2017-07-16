@@ -140,6 +140,7 @@ pgPool-watchdog
 http://www.pgpool.net/pgpool-web/contrib_docs/watchdog/en.html
 https://blog.dbi-services.com/vertically-scale-your-postgresql-infrastructure-with-pgpool-1-basic-setup-and-watchdog-configuration/
 http://jensd.be/591/linux/setup-a-redundant-postgresql-database-with-repmgr-and-pgpool
+http://www.edbguides.com/efm/efm-2-1-quickstart
 
 Connection pool
 https://dzone.com/articles/scaling-connections-in-postgres
