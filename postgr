@@ -189,3 +189,8 @@ Pg troubleshotting
 
 https://www.openscg.com/2016/11/is-my-query-stuck-postgresql-9-6/?utm_source=dlvr.it&utm_medium=twitter
 
+xDB-
+=====
+MMR setup in
+https://community.postgresrocks.net/t5/Postgres-Gems/Replication-Server-6-Quickstart-Multi-Master-Replication/ba-p/126
+
