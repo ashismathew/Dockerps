@@ -206,3 +206,20 @@ iostat - check for I/O issue...
 iostat device status - %user, %iowait(welath of information ) - flooding of i/o- focus on debugging issue, if i/o chaneel is flooded, pointe is
 increase in memory, buffer.. ,%idle, 
 
+Network tools-
+Netstat
+netstat -an |grep LISTEN
+netstat -an |grep LISTEN |grep tcp
+netstat -an |grep LISTEN|grep PGSQL
+
+Postgres Statistcs Collector-
+pg_stat_archiver - just one row..monitor this table to understand the file usage
+pg_stat_bgwriter - 
+pg_stat_database - one row, no of conflicts...,
+hit ratio <90% , some performance tuning to do 
+pg_stat_all_table - similar to RTS
+pg_stat_user_table - when vacumm was run and auto vaccum etc
+
+
+
+
