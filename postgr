@@ -235,3 +235,9 @@ WHERE now() — pg_stat_activity.query_start > interval '5 minutes';
 In order to cancel these long running queries you should execute:
 
 SELECT pg_cancel_backend(__pid__);
+note=never use pg_terminate_backend as it's equivalent of doing kill -9 command
+
+Table hit ratio
+
+Database hit ratio
+
