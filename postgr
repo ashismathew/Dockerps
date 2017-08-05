@@ -194,3 +194,15 @@ xDB-
 MMR setup in
 https://community.postgresrocks.net/t5/Postgres-Gems/Replication-Server-6-Quickstart-Multi-Master-Replication/ba-p/126
 
+Monitoring -
+==========
+https://d4mations.com/monitoring-postgresql-kevin-kempter/
+Logs - look out for FATAL, HINT, LOG (Tool -pgbadger)
+
+OS Monitoring -
+ps,top, iostat, vmstat
+top - what is the overall workload
+iostat - check for I/O issue...
+iostat device status - %user, %iowait(welath of information ) - flooding of i/o- focus on debugging issue, if i/o chaneel is flooded, pointe is
+increase in memory, buffer.. ,%idle, 
+
