@@ -193,6 +193,7 @@ xDB-
 =====
 MMR setup in
 https://community.postgresrocks.net/t5/Postgres-Gems/Replication-Server-6-Quickstart-Multi-Master-Replication/ba-p/126
+http://www.edbguides.com/replication-server/replication-server-6-quickstart-mmr
 
 Monitoring -
 ==========
