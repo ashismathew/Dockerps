@@ -268,3 +268,8 @@ https://github.com/stepping-stone/postgresql-utils
 https://github.com/johnliu55tw/postgresql-backup
 https://github.com/nizarlazuardy/postgresql_pitr_test_restore/blob/master/pitr_test_restore.sh
 https://github.com/PeterHickman/PostgreSQL-Database-Sizes
+
+pg_upgrade
+===========
+How and why to patch Postgres 
+https://www.youtube.com/watch?v=EC4Vn_5FZR8
