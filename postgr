@@ -292,4 +292,7 @@ Ansible
 http://slides.com/apatheticmagpie/managing-postgres-with-ansible#/67
 https://www.commandprompt.com/blog/pgconf_2016_kicking_the_donkey_of_postgresql_replication/
 http://www.pgconfsv.com/sessions/cloud-postgresql-automation-management-ansible
-
+https://fale.io/blog/2017/05/31/postgresql-streaming-replication-for-ansible-tower/
+https://www.linuxfestnorthwest.org/2017/sessions/ansible-and-postgresql-marriage-made-heaven
+https://github.com/imincik/ansible-postgresql_tune
+http://pyvideo.org/pycon-italia-2016/taking-care-of-postgresql-with-ansible.html
