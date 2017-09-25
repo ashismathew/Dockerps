@@ -306,6 +306,8 @@ NFS latecy test
 ===========
 https://wiki.postgresql.org/wiki/PgDay_Paris_2017 
 https://wiki.postgresql.org/images/4/45/PostgreSQL_on_a_NetApp.pdf
+backups - https://pgday.ru/files/papers/53/PostgreSQL%20Backups%20the%20Modern%20Way.pdf
+
 Ansible with postgres
 ===================
 https://github.com/gulcin/pgconfeu2015
