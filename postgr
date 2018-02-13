@@ -381,4 +381,5 @@ PLpgsql
 =======
 https://github.com/sahapasci/dba.postgresql
 https://github.com/luk4z7/plpgsql-tools
+https://github.com/chobostar/pgsql_tools/blob/master/queries.sql
 
