@@ -393,3 +393,6 @@ PostgreSQL - Machine learning
 =====================
 https://github.com/vatsan/postgresopen-2017
 https://aws.amazon.com/blogs/machine-learning/tuning-your-dbms-automatically-with-machine-learning/
+
+PostgreSQL- MOnitoring streaming replication
+http://sysadvent.blogspot.com/2017/12/day-12-monitoring-postgres-replication.html
