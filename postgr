@@ -399,3 +399,5 @@ http://sysadvent.blogspot.com/2017/12/day-12-monitoring-postgres-replication.htm
 
 Ruby pG tricks
 https://www.youtube.com/watch?v=N08NHsyaoKM
+pgconfig- postgres configurator
+https://github.com/sebastianwebber/pgconfig
