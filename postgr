@@ -426,4 +426,5 @@ https://github.com/bricklen/pg-scripts
 https://www.cybertec-postgresql.com/en/reasons-why-vacuum-wont-remove-dead-rows/
 http://blog.dataegret.com/2018/03/postgresql-bloatbusters.html
 https://github.com/heap/pg-autovacuum-diagnostics/tree/master/scripts
+https://medium.com/poka-techblog/5-different-ways-to-backup-your-postgresql-database-using-python-3f06cea4f51
 
