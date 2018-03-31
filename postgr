@@ -424,4 +424,6 @@ https://www.cybertec-postgresql.com/en/estimating-table-bloat/
 https://bricklen.github.io/2018-03-27-Postgres-10-upgrade/
 https://github.com/bricklen/pg-scripts
 https://www.cybertec-postgresql.com/en/reasons-why-vacuum-wont-remove-dead-rows/
+http://blog.dataegret.com/2018/03/postgresql-bloatbusters.html
+https://github.com/heap/pg-autovacuum-diagnostics/tree/master/scripts
 
