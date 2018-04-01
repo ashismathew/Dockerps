@@ -438,3 +438,5 @@ https://www.manniwood.com/2015_12_28/postgresql_94_vacuum_test.html
 Good REad === on how to kick start the auto vacuum
 https://blog.dbi-services.com/are-temporary-tables-auto-vacuumed-in-postgresql/
 https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/lcc/pdf/PostgreSQL_Internals_1_for_PostgreSQL96_en_20170211-1.pdf
+https://severalnines.com/blog/become-postgresql-dba-postgresql-server-configuration-parameters
+https://www.datadoghq.com/blog/postgresql-monitoring/
