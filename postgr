@@ -435,4 +435,5 @@ https://pganalyze.com/blog/visualizing-and-tuning-postgres-autovacuum.html
 https://blog.2ndquadrant.com/autovacuum-tuning-basics/
 https://www.commandprompt.com/blog/postgres_autovacuum_bloat_tpc-c/
 https://www.manniwood.com/2015_12_28/postgresql_94_vacuum_test.html
-
+Good REad === on how to kick start the auto vacuum
+https://blog.dbi-services.com/are-temporary-tables-auto-vacuumed-in-postgresql/
