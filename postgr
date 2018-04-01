@@ -444,3 +444,4 @@ How to simulate - read + write workload using pgbench-
 ====================
 
 https://severalnines.com/blog/benchmarking-postgresql-performance
+https://github.com/glynastill/pgbench_looper
