@@ -440,3 +440,7 @@ https://blog.dbi-services.com/are-temporary-tables-auto-vacuumed-in-postgresql/
 https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/lcc/pdf/PostgreSQL_Internals_1_for_PostgreSQL96_en_20170211-1.pdf
 https://severalnines.com/blog/become-postgresql-dba-postgresql-server-configuration-parameters
 https://www.datadoghq.com/blog/postgresql-monitoring/
+How to simulate - read + write workload using pgbench- 
+====================
+
+https://severalnines.com/blog/benchmarking-postgresql-performance
