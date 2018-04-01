@@ -428,3 +428,10 @@ http://blog.dataegret.com/2018/03/postgresql-bloatbusters.html
 https://github.com/heap/pg-autovacuum-diagnostics/tree/master/scripts
 https://medium.com/poka-techblog/5-different-ways-to-backup-your-postgresql-database-using-python-3f06cea4f51
 
+Tuning Autovacuum-
+==================
+https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy/
+https://pganalyze.com/blog/visualizing-and-tuning-postgres-autovacuum.html
+https://blog.2ndquadrant.com/autovacuum-tuning-basics/
+https://www.commandprompt.com/blog/postgres_autovacuum_bloat_tpc-c/
+
