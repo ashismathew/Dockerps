@@ -447,3 +447,5 @@ https://severalnines.com/blog/benchmarking-postgresql-performance
 https://github.com/glynastill/pgbench_looper
 https://github.com/postgrespro/pg_ycsb
 https://aws.amazon.com/blogs/database/a-case-study-of-tuning-autovacuum-in-amazon-rds-for-postgresql/
+
+https://developer.s24.com/blog/taming-postgresql-autovacuum.html
