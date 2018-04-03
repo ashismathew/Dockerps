@@ -450,3 +450,4 @@ https://aws.amazon.com/blogs/database/a-case-study-of-tuning-autovacuum-in-amazo
 
 https://developer.s24.com/blog/taming-postgresql-autovacuum.html
 http://richyen.com/postgres/2017/08/25/what_will_be_vacuumed_autovacuum.html
+https://blog.2ndquadrant.com/when-autovacuum-does-not-vacuum/
