@@ -456,3 +456,6 @@ https://www.compose.com/articles/postgresql-bloat-origins-monitoring-and-managin
 pg_repack tests--
 ======
 https://www.redpill-linpro.com/sysadvent/2017/12/08/pg_repack.html
+pg_logical 
+========
+https://rosenfeld.herokuapp.com/en/articles/infrastructure/2017-11-10-upgrading-postgresql-from-9-6-to-10-with-minimal-downtime-using-pglogical
