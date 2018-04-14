@@ -453,3 +453,6 @@ http://richyen.com/postgres/2017/08/25/what_will_be_vacuumed_autovacuum.html
 https://blog.2ndquadrant.com/when-autovacuum-does-not-vacuum/
 https://www.dbrnd.com/2016/08/postgresql-force-autovacuum-for-running-aggressive-improve-performance-of-autovacuum-frequent-run/
 https://www.compose.com/articles/postgresql-bloat-origins-monitoring-and-managing/
+pg_repack tests--
+======
+https://www.redpill-linpro.com/sysadvent/2017/12/08/pg_repack.html
