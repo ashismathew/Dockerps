@@ -450,6 +450,7 @@ https://aws.amazon.com/blogs/database/a-case-study-of-tuning-autovacuum-in-amazo
 
 https://developer.s24.com/blog/taming-postgresql-autovacuum.html
 http://richyen.com/postgres/2017/08/25/what_will_be_vacuumed_autovacuum.html
+http://richyen.com/postgres/2017/08/24/anatomy_of_vacuum.html?utm_source=postgresweekly&utm_medium=email
 https://blog.2ndquadrant.com/when-autovacuum-does-not-vacuum/
 https://www.dbrnd.com/2016/08/postgresql-force-autovacuum-for-running-aggressive-improve-performance-of-autovacuum-frequent-run/
 https://www.compose.com/articles/postgresql-bloat-origins-monitoring-and-managing/
