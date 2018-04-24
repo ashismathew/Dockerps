@@ -468,3 +468,10 @@ https://www.cybertec-postgresql.com/en/estimating-table-bloat/
 https://www.cybertec-postgresql.com/en/a-quick-check-on-postgres-10-beta-analytics-performance-vs-version-9-6/
 https://gist.github.com/kmoppel/22623a4aeee9f67445eeb7e34afdd8be#file-pgbench_analytics-sh
 https://www.kaoruk.com/posts/06-18-2017-tuning-postgresql-queries?utm_source=postgresweekly&utm_medium=email
+http://malisper.me/using-explain-analyze-in-postgres/?utm_source=postgresweekly&utm_medium=email
+https://blog.2ndquadrant.com/autovacuum-tuning-basics/
+http://blog.dataegret.com/2018/03/postgresql-bloatbusters.html
+https://www.cybertec-postgresql.com/en/reasons-why-vacuum-wont-remove-dead-rows/
+https://medium.com/poka-techblog/5-different-ways-to-backup-your-postgresql-database-using-python-3f06cea4f51
+https://www.datadoghq.com/blog/aws-rds-postgresql-monitoring/
+https://www.cybertec-postgresql.com/en/estimating-table-bloat/
