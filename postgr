@@ -475,3 +475,9 @@ https://www.cybertec-postgresql.com/en/reasons-why-vacuum-wont-remove-dead-rows/
 https://medium.com/poka-techblog/5-different-ways-to-backup-your-postgresql-database-using-python-3f06cea4f51
 https://www.datadoghq.com/blog/aws-rds-postgresql-monitoring/
 https://www.cybertec-postgresql.com/en/estimating-table-bloat/
+https://www.compose.com/articles/postgresql-bloat-origins-monitoring-and-managing/
+https://blog.2ndquadrant.com/when-autovacuum-does-not-vacuum/
+https://github.com/NikolayS/uber-scripts/tree/master/postgresql/sql
+GO+ LIBPQ
+=======
+https://godoc.org/github.com/lib/pq
