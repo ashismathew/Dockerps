@@ -460,3 +460,11 @@ https://www.redpill-linpro.com/sysadvent/2017/12/08/pg_repack.html
 pg_logical 
 ========
 https://rosenfeld.herokuapp.com/en/articles/infrastructure/2017-11-10-upgrading-postgresql-from-9-6-to-10-with-minimal-downtime-using-pglogical
+
+Misc - April 23,2018
+====
+https://github.com/NikolayS/postgres_dba
+https://www.cybertec-postgresql.com/en/estimating-table-bloat/
+https://www.cybertec-postgresql.com/en/a-quick-check-on-postgres-10-beta-analytics-performance-vs-version-9-6/
+https://gist.github.com/kmoppel/22623a4aeee9f67445eeb7e34afdd8be#file-pgbench_analytics-sh
+https://www.kaoruk.com/posts/06-18-2017-tuning-postgresql-queries?utm_source=postgresweekly&utm_medium=email
