@@ -481,3 +481,4 @@ https://github.com/NikolayS/uber-scripts/tree/master/postgresql/sql
 GO+ LIBPQ
 =======
 https://godoc.org/github.com/lib/pq
+https://speakerdeck.com/postgresql/automated-dba
