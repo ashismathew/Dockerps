@@ -499,3 +499,10 @@ https://hunleyd.github.io/posts/Upgrading-PostgreSQL-from-9.4-to-10.3-with-pglog
 https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7
 https://bricklen.github.io/2018-03-27-Postgres-10-upgrade/
 https://github.com/gocardless/our-postgresql-setup
+
+http://www.pontifier.com/?p=23
+https://books.google.com/books?id=nF9dDwAAQBAJ&pg=PA212&lpg=PA212&dq=postgresql+10+administration+ssl+%2B+certificate&source=bl&ots=Nz2QpPqqA8&sig=1HVfHvmRMu595z0Vm-a7MSYTb7s&hl=en&sa=X&ved=0ahUKEwjcjefS9YTcAhUOJHwKHWfSCosQ6AEIkQEwCQ#v=onepage&q=postgresql%2010%20administration%20ssl%20%2B%20certificate&f=false
+https://gpdb.docs.pivotal.io/590/security-guide/topics/Authenticate.html#topic_fzv_wb2_jr__create_a_cert
+https://blog.hagander.net/postgresql-ssl-code-updates-2/
+https://www.crunchydata.com/postgres-stig/PGSQL-SUPPLEMENTAL-9.5+.pdf
+https://github.com/spacewalkproject/spacewalk/wiki/HowToPostgreSQLwithClientCertificates
