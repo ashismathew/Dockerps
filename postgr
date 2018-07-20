@@ -126,7 +126,8 @@ https://sonnguyen.ws/replication-load-balance-in-posgresql-replication-with-pgpo
 http://evol-monkey.blogspot.com/2013/12/scaling-postgres-with-pgpool-ii.html
 https://webcms.enterprisedb.com/docs/en/9.4/instguide/Postgres_Plus_Advanced_Server_Installation_Guide.1.48.html
 https://www.slideshare.net/EnterpriseDB/pgpool-load-testing
-http://www.cybertec.at/connection-pooling-intro-pgbouncer-and-pgpool-ii/
+http://www.cybertec.at/connection-pooling-intro-
+-and-pgpool-ii/
 http://www.cnblogs.com/geosky/p/pgpool-loadbalance-FAQ.html
 https://sonnguyen.ws/replication-load-balance-in-posgresql-replication-with-pgpool2/
 
@@ -183,6 +184,7 @@ http://peter.eisentraut.org/blog/2015/03/25/retrieving-pgbouncer-statistics-via-
 http://blog.endpoint.com/2015/05/connected-to-pgbouncer-or-postgres.html?utm_content=buffer23af7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 https://dba.stackexchange.com/questions/56559/postgresql-high-availability-scalability-using-haproxy-and-pgbouncer?utm_source=twitterfeed&utm_medium=twitter
 http://pgpen.blogspot.sg/2013/10/installation-steps-for-pgbouncer-on.html
+https://blog.2ndquadrant.com/pg-phriday-getting-rad-docker-part-4/
 
 Pg troubleshotting
 ====================
