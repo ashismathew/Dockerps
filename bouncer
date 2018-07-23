@@ -201,6 +201,7 @@ pgbouncer cookbooks
 1) postgresql high availability cookbook - shaun thomas
 2) Learning postgresql 10- a beginners guide to high performance salandhinn juba
 3) Postgresql high performance cookbook - CHitij Chauhan, Dinesh kumar
+https://github.com/sparknetworks/check_pgbouncer/blob/master/check_pgbouncer.py
 
 
 Pg troubleshotting
