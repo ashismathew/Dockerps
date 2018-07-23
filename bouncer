@@ -195,6 +195,12 @@ https://gist.github.com/afair/3803895
 pgPool videos
 https://www.youtube.com/watch?v=a0SDogoPzss
 https://www.youtube.com/watch?v=x_XpPbfomso
+https://github.com/the4thdoctor/pg-scripts/blob/master/init_scripts/pgbouncer
+https://github.com/grayhemp/pgcookbook/blob/master/switching_to_another_server_with_pgbouncer.md
+pgbouncer cookbooks
+1) postgresql high availability cookbook - shaun thomas
+2) Learning postgresql 10- a beginners guide to high performance salandhinn juba
+3) Postgresql high performance cookbook - CHitij Chauhan, Dinesh kumar
 
 
 Pg troubleshotting
