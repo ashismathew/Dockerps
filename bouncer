@@ -202,7 +202,10 @@ pgbouncer cookbooks
 2) Learning postgresql 10- a beginners guide to high performance salandhinn juba
 3) Postgresql high performance cookbook - CHitij Chauhan, Dinesh kumar
 https://github.com/sparknetworks/check_pgbouncer/blob/master/check_pgbouncer.py
-
+https://github.com/pgexperts/pgbouncer_bench/blob/master/pgbouncer_bench.py
+https://github.com/lxgithub/repmgr_conf_scripts
+https://2018.pgday.it/en/schedule/#session-008
+https://www.endpoint.com/blog/2015/05/18/connected-to-pgbouncer-or-postgres
 
 Pg troubleshotting
 ====================
@@ -526,3 +529,11 @@ https://gpdb.docs.pivotal.io/590/security-guide/topics/Authenticate.html#topic_f
 https://blog.hagander.net/postgresql-ssl-code-updates-2/
 https://www.crunchydata.com/postgres-stig/PGSQL-SUPPLEMENTAL-9.5+.pdf
 https://github.com/spacewalkproject/spacewalk/wiki/HowToPostgreSQLwithClientCertificates
+http://qaru.site/questions/1565558/postgres-python-multiple-ssl-connections
+https://qiita.com/NaokiIshimura/items/16dc0324b89935e71398
+https://www.depesz.com/2015/05/11/how-to-setup-ssl-connections-and-authentication/
+https://blog.hagander.net/postgresql-ssl-code-updates-2/
+http://www.pontifier.com/?p=23
+https://gpdb.docs.pivotal.io/590/security-guide/topics/Authenticate.html#topic_fzv_wb2_jr__create_a_cert
+https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf
+https://qiita.com/NaokiIshimura/items/16dc0324b89935e71398
