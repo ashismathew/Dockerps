@@ -320,6 +320,7 @@ https://fale.io/blog/2017/05/31/postgresql-streaming-replication-for-ansible-tow
 https://www.linuxfestnorthwest.org/2017/sessions/ansible-and-postgresql-marriage-made-heaven
 https://github.com/imincik/ansible-postgresql_tune
 http://pyvideo.org/pycon-italia-2016/taking-care-of-postgresql-with-ansible.html
+https://www.exoscale.com/syslog/ansible-pgsql-demo/
 
 https://github.com/kmoppel
 https://github.com/dangmocrang/postgres_watchdog
@@ -541,3 +542,7 @@ http://www.pontifier.com/?p=23
 https://gpdb.docs.pivotal.io/590/security-guide/topics/Authenticate.html#topic_fzv_wb2_jr__create_a_cert
 https://www.pgcon.org/2009/schedule/attachments/129_Encrypted%20PostgreSQL.pdf
 https://qiita.com/NaokiIshimura/items/16dc0324b89935e71398
+
+Docker
+========
+https://github.com/richyen/ppas_and_docker/tree/master/epas
