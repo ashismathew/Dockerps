@@ -210,6 +210,11 @@ https://heapanalytics.com/blog/engineering/decrypting-pgbouncers-diagnostic-info
 http://raghavt.blogspot.com/2016/08/how-to-rotate-pgbouncer-logs-in.html
 http://blog.dataegret.com/2015/06/3-reasons-to-use-pgbouncer.html?utm_content=buffer29334&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer?utm_content=buffer29334&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 http://girders.org/2012/09/scaling-postgresql-with-pgpool-and-pgbouncer.html
+https://github.com/lesovsky/ansible-pgbouncer
+https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-analyze.sh
+
+
+
 
 
 
