@@ -213,6 +213,7 @@ http://girders.org/2012/09/scaling-postgresql-with-pgpool-and-pgbouncer.html
 https://github.com/lesovsky/ansible-pgbouncer
 https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-analyze.sh
 http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer
+https://github.com/pgexperts/pgx_scripts/blob/master/pgbouncer/log_pgbouncer_stats.sh
 
 
 
