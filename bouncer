@@ -212,6 +212,7 @@ http://blog.dataegret.com/2015/06/3-reasons-to-use-pgbouncer.html?utm_content=bu
 http://girders.org/2012/09/scaling-postgresql-with-pgpool-and-pgbouncer.html
 https://github.com/lesovsky/ansible-pgbouncer
 https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-analyze.sh
+http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer
 
 
 
