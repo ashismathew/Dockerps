@@ -207,6 +207,7 @@ https://github.com/lxgithub/repmgr_conf_scripts
 https://2018.pgday.it/en/schedule/#session-008
 https://www.endpoint.com/blog/2015/05/18/connected-to-pgbouncer-or-postgres
 https://heapanalytics.com/blog/engineering/decrypting-pgbouncers-diagnostic-information
+http://raghavt.blogspot.com/2016/08/how-to-rotate-pgbouncer-logs-in.html
 
 Pg troubleshotting
 ====================
