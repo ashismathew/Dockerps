@@ -566,3 +566,7 @@ https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials
 Python - ORMS
 ==========
 https://vidz.cloud/2015/07/12/business-logic-with-postgresql-and-python-pycon-sg-2015/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost
+
+pgbench marking script-
+=========================
+https://github.com/siavash9000/pgbench2postgres/blob/master/benchmark.py
