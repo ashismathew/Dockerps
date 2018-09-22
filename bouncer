@@ -381,6 +381,9 @@ https://github.com/mann1mal/aws-loft-2017-container-lab
 https://www.pgconf.us/conferences/2017/program/proposals/postgresql-high-availability-in-a-containerized-world
 https://gitlab.com/fV6Dcb8VGcpyI/PostgreSQL_and_Linux_Containers_in_the_Enterprise/tree/master/01.Automation/archive
 
+https://github.com/pvacca/EDBContainer/blob/master/docker/ppas-9.4/Dockerfile
+https://gist.github.com/pdolega/6b3e321753cd4080d2dc
+
 Postgres Containers -
 ==================
 https://www.youtube.com/watch?v=AsJClipvuTQ
@@ -562,6 +565,8 @@ Docker
 https://github.com/richyen/ppas_and_docker/tree/master/epas
 https://github.com/jfrost/the-art-of-command-line
 https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials
+https://gist.github.com/daviesian
+https://gist.github.com/pdolega/6b3e321753cd4080d2dc
 
 Python - ORMS
 ==========
@@ -570,3 +575,4 @@ https://vidz.cloud/2015/07/12/business-logic-with-postgresql-and-python-pycon-sg
 pgbench marking script-
 =========================
 https://github.com/siavash9000/pgbench2postgres/blob/master/benchmark.py
+https://github.com/NikolayS/uber-scripts/tree/master/benchmarking/pgbench
