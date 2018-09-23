@@ -572,6 +572,8 @@ https://blog.philipphauer.de/databases-challenge-continuous-delivery/
 https://github.com/sameersbn/docker-postgresql#quickstart
 https://github.com/docker-library/postgres/blob/443c7947d548b1c607e06f7a75ca475de7ff3284/9.5/docker-entrypoint.sh
 https://gist.github.com/aVolpe/4dca6190b5a47bc72d80d2cd01ebd3d2
+https://gist.github.com/pdolega/6b3e321753cd4080d2dc
+https://github.com/alexdik/dockerized-postgres
 
 Python - ORMS
 ==========
