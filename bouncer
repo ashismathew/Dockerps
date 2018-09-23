@@ -563,10 +563,15 @@ https://qiita.com/NaokiIshimura/items/16dc0324b89935e71398
 Docker
 ========
 https://github.com/richyen/ppas_and_docker/tree/master/epas
+https://github.com/pvacca/EDBContainer/blob/master/docker/ppas-9.4/Dockerfile
 https://github.com/jfrost/the-art-of-command-line
 https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials
 https://gist.github.com/daviesian
 https://gist.github.com/pdolega/6b3e321753cd4080d2dc
+https://blog.philipphauer.de/databases-challenge-continuous-delivery/
+https://github.com/sameersbn/docker-postgresql#quickstart
+https://github.com/docker-library/postgres/blob/443c7947d548b1c607e06f7a75ca475de7ff3284/9.5/docker-entrypoint.sh
+https://gist.github.com/aVolpe/4dca6190b5a47bc72d80d2cd01ebd3d2
 
 Python - ORMS
 ==========
