@@ -576,6 +576,13 @@ https://gist.github.com/pdolega/6b3e321753cd4080d2dc
 https://github.com/alexdik/dockerized-postgres
 https://github.com/sclorg/postgresql-container
 https://www.andreagrandi.it/2015/02/21/how-to-create-a-docker-image-for-postgresql-and-persist-data/
+https://www.digitalocean.com/community/tutorials/naming-docker-containers-3-tips-for-beginners
+
+Kubernetes
+============
+
+https://container.training/kube-selfpaced.yml.html#1
+https://medium.com/kokster/postgresql-on-kubernetes-the-right-way-part-one-d174ee8a56e3
 
 Python - ORMS
 ==========
