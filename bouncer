@@ -592,6 +592,8 @@ pgbench marking script-
 =========================
 https://github.com/siavash9000/pgbench2postgres/blob/master/benchmark.py
 https://github.com/NikolayS/uber-scripts/tree/master/benchmarking/pgbench
+pgbench+ python benchmarking-
+https://github.com/siavash9000/pgbench2postgres
 
 docker-compose
 ==============
