@@ -599,3 +599,8 @@ docker-compose
 ==============
 https://linuxhint.com/run_postgresql_docker_compose/
 http://blog.armstrongconsulting.com/?p=283
+
+SSL
+=====
+https://www.cri.ensmp.fr/~coelho/cours/si/pgbench_wip_handout.pdf
+
