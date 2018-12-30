@@ -373,6 +373,8 @@ https://docs.apigee.com/api-services/content/about-ssl
 https://docs.apigee.com/api-services/content/keystores-and-truststores
 https://access.redhat.com/articles/2039753
 https://community.atlassian.com/t5/Jira-questions/How-to-do-1st-step-in-Cookie-based-authentication-using-python/qaq-p/432302
+https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-from-psql.html
+
 
 COntainers-
 ==========
@@ -603,7 +605,12 @@ http://blog.armstrongconsulting.com/?p=283
 SSL
 =====
 https://www.cri.ensmp.fr/~coelho/cours/si/pgbench_wip_handout.pdf
+https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-from-psql.html
 https://itnext.io/postgresql-docker-image-with-ssl-certificate-signed-by-a-custom-certificate-authority-ca-3df41b5b53
+https://gist.github.com/arronharden/cc98920fd5a904e760b6c1f9c79af74a
+https://itnext.io/postgresql-docker-image-with-ssl-certificate-signed-by-a-custom-certificate-authority-ca-3df41b5b53
+https://qiita.com/sey323/items/a4875408a67cea6a8c52
+https://blog.ngeor.com/2018/11/02/troubleshooting-ssl-missing-postgresql-root-crt.html
 
 pgbouncer
 =========
@@ -618,8 +625,15 @@ http://blog.armstrongconsulting.com/?p=283
 https://github.com/Asta1986/pg_utils
 Postgres -Safe and unsafe
 https://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.XChIR89Kho7
+https://postgresql.leopard.in.ua/html/#pfad
+https://labs.contactually.com/dealing-with-significant-postgres-database-bloat-what-are-your-options-a6c1814a03a5
+https://gitlab.com/loxo-trainings/dig-the-wal/tree/master/digthewal/scripts/Exercise_5
+https://gitlab.com/soniharriz/pg_maintenance
+
 
 Containers-
 =========
 http://www.enterpriseappstoday.com/data-management/container-database-right-for-your-organization.html
+https://postgresql.us/events/pgopen2018/sessions/session/572/slides/13/
+
 
