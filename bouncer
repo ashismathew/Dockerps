@@ -605,3 +605,6 @@ SSL
 https://www.cri.ensmp.fr/~coelho/cours/si/pgbench_wip_handout.pdf
 https://itnext.io/postgresql-docker-image-with-ssl-certificate-signed-by-a-custom-certificate-authority-ca-3df41b5b53
 
+pgbouncer
+=========
+https://medium.com/@AbdullahAlger/how-to-pool-postgresql-connections-with-pgbouncer-on-compose-d7d6284ff2cc
