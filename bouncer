@@ -612,3 +612,14 @@ https://medium.com/@AbdullahAlger/how-to-pool-postgresql-connections-with-pgboun
 Docker compose
 =====
 https://linuxhint.com/run_postgresql_docker_compose/
+https://github.com/charlesrosswood/docker-nginx-flask-postgres
+https://github.com/sujaykundu777/flask-postgres-docker/blob/master/docker-compose.yml
+http://blog.armstrongconsulting.com/?p=283
+https://github.com/Asta1986/pg_utils
+Postgres -Safe and unsafe
+https://leopard.in.ua/2016/09/20/safe-and-unsafe-operations-postgresql#.XChIR89Kho7
+
+Containers-
+=========
+http://www.enterpriseappstoday.com/data-management/container-database-right-for-your-organization.html
+
