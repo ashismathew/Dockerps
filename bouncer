@@ -608,3 +608,7 @@ https://itnext.io/postgresql-docker-image-with-ssl-certificate-signed-by-a-custo
 pgbouncer
 =========
 https://medium.com/@AbdullahAlger/how-to-pool-postgresql-connections-with-pgbouncer-on-compose-d7d6284ff2cc
+
+Docker compose
+=====
+https://linuxhint.com/run_postgresql_docker_compose/
