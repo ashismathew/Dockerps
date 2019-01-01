@@ -614,6 +614,7 @@ https://blog.ngeor.com/2018/11/02/troubleshooting-ssl-missing-postgresql-root-cr
 https://gregorysenyshyn.com/freebsd-tutorials/secure-connections-with-postgresql
 https://postgresrocks.enterprisedb.com/t5/EDB-Guides/How-to-setup-SSL-authentication/ba-p/1647
 SSL cook book - postgresql 10 administration cookbook
+https://www.howtoforge.com/postgresql-ssl-certificates
 
 
 pgbouncer
