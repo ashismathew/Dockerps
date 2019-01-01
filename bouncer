@@ -611,6 +611,10 @@ https://gist.github.com/arronharden/cc98920fd5a904e760b6c1f9c79af74a
 https://itnext.io/postgresql-docker-image-with-ssl-certificate-signed-by-a-custom-certificate-authority-ca-3df41b5b53
 https://qiita.com/sey323/items/a4875408a67cea6a8c52
 https://blog.ngeor.com/2018/11/02/troubleshooting-ssl-missing-postgresql-root-crt.html
+https://gregorysenyshyn.com/freebsd-tutorials/secure-connections-with-postgresql
+https://postgresrocks.enterprisedb.com/t5/EDB-Guides/How-to-setup-SSL-authentication/ba-p/1647
+SSL cook book - postgresql 10 administration cookbook
+
 
 pgbouncer
 =========
