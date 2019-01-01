@@ -615,6 +615,8 @@ https://gregorysenyshyn.com/freebsd-tutorials/secure-connections-with-postgresql
 https://postgresrocks.enterprisedb.com/t5/EDB-Guides/How-to-setup-SSL-authentication/ba-p/1647
 SSL cook book - postgresql 10 administration cookbook
 https://www.howtoforge.com/postgresql-ssl-certificates
+https://joelonsql.com/2013/04/27/securing-postgresql-using-hostssl-cert-clientcert1/
+https://dzone.com/articles/establish-a-secure-ssl-connection-to-postgresql-db
 
 
 pgbouncer
