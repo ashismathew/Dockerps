@@ -211,6 +211,7 @@ http://raghavt.blogspot.com/2016/08/how-to-rotate-pgbouncer-logs-in.html
 http://blog.dataegret.com/2015/06/3-reasons-to-use-pgbouncer.html?utm_content=buffer29334&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer?utm_content=buffer29334&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 http://girders.org/2012/09/scaling-postgresql-with-pgpool-and-pgbouncer.html
 https://github.com/lesovsky/ansible-pgbouncer
+https://github.com/ibarwick/pglogical_demo_ansible
 https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-analyze.sh
 http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer
 https://github.com/pgexperts/pgx_scripts/blob/master/pgbouncer/log_pgbouncer_stats.sh
@@ -655,3 +656,5 @@ https://github.com/digoal/blog/blob/master/201812/20181204_01.md
 
 Data loss scenario
 https://github.com/2ndQuadrant/ext4-data-loss
+Connectinon test- in GO
+https://brandur.org/articles
