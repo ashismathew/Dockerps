@@ -644,4 +644,5 @@ http://www.enterpriseappstoday.com/data-management/container-database-right-for-
 https://postgresql.us/events/pgopen2018/sessions/session/572/slides/13/
 
 https://www.depesz.com/2016/11/08/major-version-upgrading-with-minimal-downtime/#more-3186
-
+how does postgres zero data loss in Async SR ?
+https://github.com/digoal/blog/blob/master/201705/20170504_03.md
