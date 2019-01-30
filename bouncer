@@ -646,3 +646,7 @@ https://postgresql.us/events/pgopen2018/sessions/session/572/slides/13/
 https://www.depesz.com/2016/11/08/major-version-upgrading-with-minimal-downtime/#more-3186
 how does postgres zero data loss in Async SR ?
 https://github.com/digoal/blog/blob/master/201705/20170504_03.md
+Testdata
+https://github.com/digoal/blog/blob/master/201711/20171121_01.md
+PgBench Test data generation internals.
+https://github.com/digoal/blog/blob/master/201809/20180919_03.md
