@@ -658,3 +658,5 @@ Data loss scenario
 https://github.com/2ndQuadrant/ext4-data-loss
 Connectinon test- in GO
 https://brandur.org/articles
+Transaction ID wraparound
+https://weicode.wordpress.com/2016/11/25/postgresql-vacuuming/
