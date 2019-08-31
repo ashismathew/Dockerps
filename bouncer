@@ -216,8 +216,8 @@ https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-an
 http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer
 https://github.com/pgexperts/pgx_scripts/blob/master/pgbouncer/log_pgbouncer_stats.sh
 
-
-
+Good xample of Ansible set up -
+https://github.com/codereviewvideos/ansible/tree/master/playbook/roles/mysql
 
 
 
