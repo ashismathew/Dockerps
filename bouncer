@@ -667,3 +667,12 @@ https://community1.pega.com/community/pega-support/question/issue-seamless-failo
 Patroni-
 ======
 https://github.com/patroni-training/2019
+
+slony-
+https://github.com/trrao/Slony-Scripts
+
+Major upgrade
+https://github.com/appleajay/postgres_upgrade/blob/master/postgresql_migration.sh
+
+Backup script-
+https://github.com/OVYA/debian_postgres_upgrade/blob/master/backup_postgresql_db.sh
