@@ -215,6 +215,7 @@ https://github.com/ibarwick/pglogical_demo_ansible
 https://github.com/lesovsky/uber-scripts/blob/master/postgresql/pgbouncer-log-analyze.sh
 http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer
 https://github.com/pgexperts/pgx_scripts/blob/master/pgbouncer/log_pgbouncer_stats.sh
+https://scalegrid.io/blog/postgresql-connection-pooling-part-2-pgbouncer/
 
 Good xample of Ansible set up -
 https://github.com/codereviewvideos/ansible/tree/master/playbook/roles/mysql
