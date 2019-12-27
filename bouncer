@@ -686,8 +686,10 @@ HAProxy
 =======
 https://severalnines.com/database-blog/how-create-single-endpoint-your-postgresql-replication-setup-using-haproxy
 https://viggy28.dev/article/postgres-haproxy/#disqus_thread
+https://blog.51cto.com/heyiyi/1884440
 https://www.xf.is/haproxy-monitor-postgresql-for-current-master
 https://trieu.pro/blog/create-a-highly-available-postgresql-10-5-cluster-using-patroni-and-haproxy-keepalived/
+https://stackshare.io/thumbtack/scaling-postgresql-at-thumbtack-load-balancing-and-health-checks
 https://severalnines.com/database-blog/converting-asynchronous-synchronous-replication-postgresql
 https://www.alibabacloud.com/blog/how-to-set-up-a-highly-available-postgresql-cluster-using-patroni-on-ubuntu-16-04_594477
 https://www.alibabacloud.com/blog/postgresql-business-data-quality-real-time-monitoring-practices_594816?spm=a2c65.11461544.0.0.6e195355USfai8
