@@ -679,6 +679,7 @@ https://github.com/appleajay/postgres_upgrade/blob/master/postgresql_migration.s
 Backup script-
 https://github.com/OVYA/debian_postgres_upgrade/blob/master/backup_postgresql_db.sh
 
+
 Postgresql interesting blog-
 http://blog.itpub.net/postgresql/
 
@@ -732,3 +733,23 @@ http://blog.itpub.net/6906/viewspace-2648934/
 Seamless failover-
 http://blog.itpub.net/6906/viewspace-2662178/
 
+Postgres Monitoring checklist-
+https://docs.google.com/document/d/1VDMOQemf2XLWSD660GCMXSNC8tMY6Jg5K-nlxM2e2Ps/edit#heading=h.rta1j0q1ru0u
+https://gist.github.com/fcoury/e32649b013e91938136d7596df538bed
+pgmetrics interesting query-
+https://github.com/rapidloop/pgmetrics/blob/master/collector/collect.go
+Delayed standby -
+https://blog.51cto.com/lee90/2443945
+https://sudonull.com/post/30937-How-we-used-deferred-replication-for-disaster-recovery-with-PostgreSQL-Southbridge-Blog
+
+Linux perf analysis
+https://github.com/digoal/linux_performance_analyze
+
+https://github.com/digoal/blog/blob/master/202005/20200509_02.md
+PostgreSQL DBA most commonly used SQL (dba.tps)
+====================================
+https://github.com/digoal/blog/blob/master/202005/20200509_02.md
+https://github.com/kmoppel/acid-tools
+https://github.com/kmoppel/pg_checkup/blob/master/stat_activity_monitoring.py
+iostats-
+https://github.com/lesovsky/uber-scripts/tree/master/benchmarking/gnuplot
