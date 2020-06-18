@@ -694,4 +694,12 @@ https://severalnines.com/database-blog/converting-asynchronous-synchronous-repli
 https://www.alibabacloud.com/blog/how-to-set-up-a-highly-available-postgresql-cluster-using-patroni-on-ubuntu-16-04_594477
 https://www.alibabacloud.com/blog/postgresql-business-data-quality-real-time-monitoring-practices_594816?spm=a2c65.11461544.0.0.6e195355USfai8
 
+pgbouncer-
+https://github.com/alexey-medvedchikov/ansible-pgbouncer/blob/master/files/pgbouncer_info.py
+https://postgrespro.co.il/blog/how-we-manage-connection-permissions-from-pgbouncer-to-postgresqls/
+Postgresql DBA sql
+==========
+https://github.com/digoal/blog/blob/master/201812/20181204_01.md
+https://github.com/digoal/blog/blob/master/201806/20180613_02.md
+https://github.com/digoal/blog/blob/master/201806/20180613_02.md
 
