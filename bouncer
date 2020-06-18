@@ -700,6 +700,22 @@ https://postgrespro.co.il/blog/how-we-manage-connection-permissions-from-pgbounc
 Postgresql DBA sql
 ==========
 https://github.com/digoal/blog/blob/master/201812/20181204_01.md
+PostgreSQL real-time health monitoring screen-high frequency indicators-collector level
 https://github.com/digoal/blog/blob/master/201806/20180613_02.md
+How does PostgreSQL find TOP SQL (such as the SQL with the highest IO consumption) (including SQL optimization content)-collector level
+https://github.com/digoal/blog/blob/master/201704/20170424_06.md
+PostgreSQL real-time health monitoring screen-high frequency indicators-collector level
 https://github.com/digoal/blog/blob/master/201806/20180613_02.md
+
+PostgreSQL quorum based synchronous replication mode in extreme cases of zero loss damage
+https://github.com/digoal/blog/blob/master/201807/20180704_04.md
+Advice on preparing for database-related job interviews-Collectible
+https://github.com/digoal/blog/blob/master/201806/20180623_01.md
+
+PostgreSQL Performance Evaluation Guide
+https://github.com/digoal/blog/blob/master/202001/20200120_01.md
+https://github.com/digoal/blog/blob/master/201807/20180704_04.md
+
+PostgreSQL 12 on Alibaba Cloud ecs local ssd VS essd pl3 performance-including fio, fsync test, pgbench test, advantages and disadvantages, cloud disk PG kernel optimization suggestions
+https://github.com/digoal/blog/blob/master/201912/20191228_04.md
 
