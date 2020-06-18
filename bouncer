@@ -697,6 +697,7 @@ https://www.alibabacloud.com/blog/postgresql-business-data-quality-real-time-mon
 pgbouncer-
 https://github.com/alexey-medvedchikov/ansible-pgbouncer/blob/master/files/pgbouncer_info.py
 https://postgrespro.co.il/blog/how-we-manage-connection-permissions-from-pgbouncer-to-postgresqls/
+https://pgdash.io/blog/pgbouncer-connection-pool.html
 Postgresql DBA sql
 ==========
 https://github.com/digoal/blog/blob/master/201812/20181204_01.md
@@ -721,4 +722,13 @@ https://github.com/digoal/blog/blob/master/201912/20191228_04.md
 
 Sysbench-
 https://github.com/digoal/blog/blob/master/201910/20191015_01.md
+
+Lot of interesting PG findings-
+http://blog.itpub.net/postgresql/
+Network latency-
+http://blog.itpub.net/6906/viewspace-2692825/
+http://blog.itpub.net/6906/viewspace-2652697/
+http://blog.itpub.net/6906/viewspace-2648934/
+Seamless failover-
+http://blog.itpub.net/6906/viewspace-2662178/
 
